@@ -1,0 +1,19 @@
+{
+  "name": "decepticon",
+  "version": "1.0.0",
+  "description": "A bot built on Discord.js made to run games of Deception",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "Discord",
+    "Discord.js"
+  ],
+  "author": "Eric Phillips",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^9.3.0",
+    "dotenv": "^2.0.0"
+  }
+}
